@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "633056637601",
+    "project_id": "scoschool-6e468",
+    "storage_bucket": "scoschool-6e468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633056637601:android:6c76f6a2e21ba61f2836e0",
+        "android_client_info": {
+          "package_name": "com.example.scostudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633056637601-bpv5ppmfbmdgl45eec48t11nh8ri1abr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsj_tc_RNLYzJx18C7ruGgBv8LOqaLzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633056637601-bpv5ppmfbmdgl45eec48t11nh8ri1abr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633056637601-l2ngr9t2qt6s3dkqp4cjllqgia4fnro2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scostudent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
